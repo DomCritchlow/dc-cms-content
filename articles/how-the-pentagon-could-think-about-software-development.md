@@ -1,3 +1,15 @@
+---
+noteId: "4bccb850610211ed812469a3c63d8201"
+tags: []
+title: "How the Pentagon could think about Software Development"
+published: "29/06/2022"
+public: true
+image: "https://storage.googleapis.com/portfolio_images_dominic/portfolio_images/Planes-13.jpg"
+category: "article"
+author: "Dominic Critchlow"
+
+---
+
 How the Pentagon could think about Software Development
 =======================================================
 
