@@ -1,3 +1,8 @@
+---
+title: About Me
+date: 10/11/2022
+---
+
 About Me
 =======================================================
 <img src="https://storage.googleapis.com/portfolio_images_dominic/portfolio_images/IMG_1090.jpeg" alt="Dominic's Profile Picture" width="200" align="right" />
