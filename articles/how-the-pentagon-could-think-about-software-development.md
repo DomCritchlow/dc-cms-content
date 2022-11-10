@@ -1,19 +1,13 @@
 ---
 noteId: "4bccb850610211ed812469a3c63d8201"
 tags: []
-title: "How the Pentagon could think about Software Development"
-published: "29/06/2022"
+title: How the Pentagon could think about Software Development
+published: 29/06/2022
 public: true
-image: "https://storage.googleapis.com/portfolio_images_dominic/portfolio_images/Planes-13.jpg"
-category: "article"
-author: "Dominic Critchlow"
-
+image: https://storage.googleapis.com/portfolio_images_dominic/portfolio_images/Planes-13.jpg
+category: article
+author: Dominic Critchlow
 ---
-
-How the Pentagon could think about Software Development
-=======================================================
-
-![Historical Flight of F-1 and F-22 side-by-side](https://storage.googleapis.com/portfolio_images_dominic/portfolio_images/Planes-13.jpg)
 
 Deputy Secretary of Defense Dr. Hicks spoke in her announcement of the DOD AI and Data Acceleration initiative (ADA) that, “A key part of an AI-ready department is a strong data foundation.” In the [2020 DOD Data Strategy](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF), the department presented the DOD’s data goals through VAULTS (Visible, Accessible, Understandable, Linked, Trustworthy, Interoperable, and Secure). The key to making both of these happen is software. In this context, software is the entire range from extensive COTS tools, like Microsoft Excel, all the way to a few lines of python code an analyst writes to create a report. Currently, the Pentagon treats both ends of the Software spectrum very differently. In simple terms, data is visible, accessible, understandable, linked, trustworthy, interoperable, and secure by software regardless of the scale. The Pentagon needs to make software production as easy as writing a memo. Risk is inevitable; however, hiding behind the excuses of security is an even greater risk.
 
